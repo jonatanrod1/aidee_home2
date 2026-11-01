@@ -1,0 +1,12 @@
+# Datos subidos por usuarios (docs, recibos, PDFs)
+storage/*
+!storage/.gitkeep
+
+# Dependencias y entorno
+vendor/
+.env
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
